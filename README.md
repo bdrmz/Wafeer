@@ -44,10 +44,14 @@ Open `http://localhost:3000`
 MIT
 
 ---
-MEET VAULTBREAK TEAM:
 
-Project owner: Nada Alharbi, IAU Student, CIS Major
-Badriah Alzraiq,IAU Student, CYS Major
-Fatmah Albassam , IAU Student, CIS Major
+## 👥 MEET VAULTBREAK TEAM
 
-Made with 💚 for the SAUDI and GCC community
+**Project Owner:** Nada Alharbi - IAU Student, CIS Major  
+**Team Members:**  
+- Badriah Alzraiq - IAU Student, CYS Major  
+- Fatmah Albassam - IAU Student, CIS Major
+
+---
+
+Made with 💚 for the Saudi and GCC community
